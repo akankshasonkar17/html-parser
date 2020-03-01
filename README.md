@@ -4,6 +4,3 @@ I used pandas intsead of using beautiful soup.
 
 # Demo
 ![Demo](final.gif)
-
-https://github.com/akankshasonkar17/html-parser/blob/master/final.gif
-

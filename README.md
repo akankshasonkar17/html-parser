@@ -3,7 +3,7 @@ As part of SRM IET and Valeo hackthon ,the task was to parse the gives html file
 I used pandas intsead of using beautiful soup.
 
 # Demo
-![Demo](demo.gif)
+![Demo](final.gif)
 
 https://github.com/akankshasonkar17/html-parser/blob/master/final.gif
 
